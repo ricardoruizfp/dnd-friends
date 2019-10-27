@@ -2,7 +2,7 @@
   "name": "dnd-friends",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ricardoruizfp.github.io/dnd-friends/public/index.html",
+  "homepage": "https://ricardoruizfp.github.io/dnd-friends",
   "dependencies": {
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
