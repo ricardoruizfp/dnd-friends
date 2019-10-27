@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dnd-friends/public/index.html/static/css/main.b100e6da.chunk.css",
+    "main.js": "/dnd-friends/public/index.html/static/js/main.d2a72435.chunk.js",
+    "main.js.map": "/dnd-friends/public/index.html/static/js/main.d2a72435.chunk.js.map",
+    "runtime-main.js": "/dnd-friends/public/index.html/static/js/runtime-main.cbaee931.js",
+    "runtime-main.js.map": "/dnd-friends/public/index.html/static/js/runtime-main.cbaee931.js.map",
+    "static/js/2.f217dd52.chunk.js": "/dnd-friends/public/index.html/static/js/2.f217dd52.chunk.js",
+    "static/js/2.f217dd52.chunk.js.map": "/dnd-friends/public/index.html/static/js/2.f217dd52.chunk.js.map",
+    "index.html": "/dnd-friends/public/index.html/index.html",
+    "precache-manifest.08e58d643e224abd5fe9e65113b77754.js": "/dnd-friends/public/index.html/precache-manifest.08e58d643e224abd5fe9e65113b77754.js",
+    "service-worker.js": "/dnd-friends/public/index.html/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/dnd-friends/public/index.html/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/dnd-friends/public/index.html/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbaee931.js",
+    "static/js/2.f217dd52.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.d2a72435.chunk.js"
+  ]
+}
