@@ -5,7 +5,7 @@ import './NavBar.css'
 function NavBar() {
     return (
         <div className='nav'>
-            <ul>
+            <ul className='nav-row'>
                 <Link to='/' >Home</Link>
                 <Link to='/Characters' >Characters</Link>
                 <Link to='#' >Current Affairs</Link>

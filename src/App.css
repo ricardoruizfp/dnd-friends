@@ -1,4 +1,14 @@
-body {
-  background-color: #707B5C;
-  color: #ddd;
+@font-face {
+  font-family: 'Beleren-Bold';
+  font-style: normal;
+  font-weight: 400;
+  src:
+  url('./assets//Beleren-Bold.ttf')
 }
+
+body {
+  background-color: #E7E7DB;
+  color: #444;
+  font-family: 'Beleren-Bold', sans-serif;
+}
+

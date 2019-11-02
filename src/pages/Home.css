@@ -1,3 +1,25 @@
-body {
-    background-color: pink;
+.party-image {
+    width: 1280px;
+    height: 576px;
+    border:1px solid #000;
+    background: darkgrey;
+    display: block;
+    margin: 0 auto;
+    margin-top: 1rem;
+}
+
+h1 {
+    text-align: center;
+    text-shadow: 3px 3px 5px grey;
+}
+
+.content {
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.campaign-description {
+    padding: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
 }
