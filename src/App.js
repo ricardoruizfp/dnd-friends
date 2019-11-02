@@ -4,25 +4,19 @@ import {
   Switch,
   Route
 } from "react-router-dom";
+import NavBar from './components/common/NavBar'
 import Home from './pages/Home';
 import Characters from './pages/Characters';
-import Campaign from './pages/Campaign';
 import './App.css';
 
 class App extends Component {
   render() {
     return (
       <Router>
+        <NavBar />
         <Switch>
-          <Route path='/Campaign'>
-            <Campaign />
-          </Route>
-          <Route path='/characters'>
-            <Characters />
-          </Route>
-          <Route path='/'>
-            <Home />
-          </Route>
+          <Route path='/Characters' component={Characters} />
+          <Route path='/' component={Home} />
         </Switch>
       </Router>
     )

@@ -1,0 +1,45 @@
+.nav {
+    display: grid;
+    justify-items: center;
+    text-align: center;
+    margin-top: 1rem;
+}
+
+a {
+    display: inline;
+    padding: 1rem;
+    margin: 0.5rem;
+    border: solid;
+    border-width: 1px;
+    border-radius: 1rem;
+    background-color: #a9b399;
+    text-decoration: none;
+    border-color: #444;
+    color: #444;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #444;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #444;
+}
+
+a:focus {
+    text-decoration: none;
+    color: #444;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #444;
+}
+
+hr {
+    border: 1px solid #444;
+    width: 100%;
+    margin-top: 1rem;
+}
