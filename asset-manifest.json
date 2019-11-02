@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/dnd-friends/static/css/main.63376599.chunk.css",
-    "main.js": "/dnd-friends/static/js/main.1167e6cf.chunk.js",
-    "main.js.map": "/dnd-friends/static/js/main.1167e6cf.chunk.js.map",
+    "main.css": "/dnd-friends/static/css/main.ee5ab79a.chunk.css",
+    "main.js": "/dnd-friends/static/js/main.2077f08d.chunk.js",
+    "main.js.map": "/dnd-friends/static/js/main.2077f08d.chunk.js.map",
     "runtime-main.js": "/dnd-friends/static/js/runtime-main.e8359318.js",
     "runtime-main.js.map": "/dnd-friends/static/js/runtime-main.e8359318.js.map",
     "static/js/2.84de1e6f.chunk.js": "/dnd-friends/static/js/2.84de1e6f.chunk.js",
     "static/js/2.84de1e6f.chunk.js.map": "/dnd-friends/static/js/2.84de1e6f.chunk.js.map",
     "index.html": "/dnd-friends/index.html",
-    "precache-manifest.b6877572ea42990ff03c6bcf4908fff7.js": "/dnd-friends/precache-manifest.b6877572ea42990ff03c6bcf4908fff7.js",
+    "precache-manifest.1b0309942ef7217ad9b75504bcb3b155.js": "/dnd-friends/precache-manifest.1b0309942ef7217ad9b75504bcb3b155.js",
     "service-worker.js": "/dnd-friends/service-worker.js",
-    "static/css/main.63376599.chunk.css.map": "/dnd-friends/static/css/main.63376599.chunk.css.map",
+    "static/css/main.ee5ab79a.chunk.css.map": "/dnd-friends/static/css/main.ee5ab79a.chunk.css.map",
     "static/media/App.css": "/dnd-friends/static/media/Beleren-Bold.3f6dcb6f.ttf",
     "static/media/tiamat.jpg": "/dnd-friends/static/media/tiamat.294cffc5.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.e8359318.js",
     "static/js/2.84de1e6f.chunk.js",
-    "static/css/main.63376599.chunk.css",
-    "static/js/main.1167e6cf.chunk.js"
+    "static/css/main.ee5ab79a.chunk.css",
+    "static/js/main.2077f08d.chunk.js"
   ]
 }
