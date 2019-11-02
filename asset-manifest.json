@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/dnd-friends/static/css/main.b100e6da.chunk.css",
-    "main.js": "/dnd-friends/static/js/main.75067e5a.chunk.js",
-    "main.js.map": "/dnd-friends/static/js/main.75067e5a.chunk.js.map",
+    "main.css": "/dnd-friends/static/css/main.847aeb52.chunk.css",
+    "main.js": "/dnd-friends/static/js/main.d050354c.chunk.js",
+    "main.js.map": "/dnd-friends/static/js/main.d050354c.chunk.js.map",
     "runtime-main.js": "/dnd-friends/static/js/runtime-main.e8359318.js",
     "runtime-main.js.map": "/dnd-friends/static/js/runtime-main.e8359318.js.map",
-    "static/js/2.f217dd52.chunk.js": "/dnd-friends/static/js/2.f217dd52.chunk.js",
-    "static/js/2.f217dd52.chunk.js.map": "/dnd-friends/static/js/2.f217dd52.chunk.js.map",
+    "static/js/2.f95681b5.chunk.js": "/dnd-friends/static/js/2.f95681b5.chunk.js",
+    "static/js/2.f95681b5.chunk.js.map": "/dnd-friends/static/js/2.f95681b5.chunk.js.map",
     "index.html": "/dnd-friends/index.html",
-    "precache-manifest.8c750aa7f09d685cc2c870e0ce677887.js": "/dnd-friends/precache-manifest.8c750aa7f09d685cc2c870e0ce677887.js",
+    "precache-manifest.5048eabdfc1176f86d530a08e468070f.js": "/dnd-friends/precache-manifest.5048eabdfc1176f86d530a08e468070f.js",
     "service-worker.js": "/dnd-friends/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/dnd-friends/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "/dnd-friends/static/media/logo.25bf045c.svg"
+    "static/css/main.847aeb52.chunk.css.map": "/dnd-friends/static/css/main.847aeb52.chunk.css.map",
+    "static/media/App.css": "/dnd-friends/static/media/Beleren-Bold.3f6dcb6f.ttf",
+    "static/media/tiamat.jpg": "/dnd-friends/static/media/tiamat.294cffc5.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.e8359318.js",
-    "static/js/2.f217dd52.chunk.js",
-    "static/css/main.b100e6da.chunk.css",
-    "static/js/main.75067e5a.chunk.js"
+    "static/js/2.f95681b5.chunk.js",
+    "static/css/main.847aeb52.chunk.css",
+    "static/js/main.d050354c.chunk.js"
   ]
 }
