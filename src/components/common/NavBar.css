@@ -3,8 +3,6 @@
     background-image: linear-gradient( #b8b894, #E7E7DB);
 }
 
-
-
 .nav-row {
     justify-content: space-between;
     display: flex;
@@ -38,7 +36,7 @@ a:visited a:hover a:focus {
 
 hr {
     border: 1px solid #444;
-    width: 100%;
+    width: 99.7%;
     margin: 1rem 0 0 0;
     padding: 0;
 }

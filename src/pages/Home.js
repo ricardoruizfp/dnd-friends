@@ -10,12 +10,12 @@ class Home extends Component {
       <div className='container'>
         <h1>The Tyranny of Dragons Homepage</h1>
         <div className='content'>
-          <img className='party-image' src={tiamat} alt='' />
+          <img className='tiamat-image' src={tiamat} alt='' />
           <div className='campaign-description'>
-          <p>{content.campaignDescriptionP1}</p>
-          <p>{content.campaignDescriptionP2}</p>
-          <p>{content.campaignDescriptionP3}</p>
-          <p>{content.campaignDescriptionP4}</p>
+            <p>{content.campaignDescriptionP1}</p>
+            <p>{content.campaignDescriptionP2}</p>
+            <p>{content.campaignDescriptionP3}</p>
+            <p>{content.campaignDescriptionP4}</p>
           </div>
         </div>
       </div>
