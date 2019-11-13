@@ -12,6 +12,7 @@ class KillList extends Component {
                     if(v.displayName){
                         return <KillListMob key={v.displayName} mob={v} />
                     }
+                    return null;
                 })}
             </div>
         )

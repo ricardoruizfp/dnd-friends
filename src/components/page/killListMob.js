@@ -15,6 +15,7 @@ export default function killListMob(props) {
             <div className='kill-list-mob-title'>{mob.displayName}</div>
             <img className='kill-list-mob-image' alt='' src={displayImage} />
             <div className='kill-list-mob-flavor'>{mob.flavor}</div>
+            {mob.killCount > 1 && <div className='kill-list-mob-kill-count'>{mob.killCount}</div>}
         </div>
     )
 }

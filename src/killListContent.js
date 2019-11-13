@@ -1,6 +1,8 @@
 module.exports = {
   bullywugs: {
-
+    displayName: 'Bullywugs',
+    boss: true,
+    killCount: 69
   },
   cultists: {
 
@@ -210,19 +212,30 @@ module.exports = {
     displayName: 'Glazhael the Skychaser',
     imagePath: 'glazhaelTheSkychaser.jpg',
     boss: true,
-    flavor: 'Glazhael the Cloudchaser was a white dragon allied with the reformed Cult of the Dragon of Severin. He remained in the Skyreach Castle to protect the hoard accumulated there.'
+    flavor: 'Glazhael the Cloudchaser was a white dragon allied with the reformed Cult of the Dragon of Severin. He remained in the Skyreach Castle to protect the hoard accumulated there.',
+    killCount: 1
   },
   rezmir: {
-
+    displayName: 'Rezmir',
+    boss: true,
+    killCount: 1
   },
   azbaraJos: {
-
+    displayName: 'Azbara Jos',
+    boss: true,
+    killCount: 1
   },
   captainOthelstan: {
-
+    displayName: 'Captain Othelstan',
+    boss: true,
+    killCount: 1
   },
   mosaicChimera: {
-
+    displayName: 'Mosaic Chimera',
+    boss: true,
+    killCount: 1,
+    imagePath: 'mosaicChimera.jpg',
+    flavor: 'The hallway opens onto a large chamber with an elaborate mosaic of a knight battling a chimera beneath a blazing sun. The adventurers are alarmed when the mosaic chimera comes to life and rises out of the floor to breathe very real fire on them.'
   }
-  
+
 }

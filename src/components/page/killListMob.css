@@ -3,13 +3,25 @@
     transition: 0.3s;
     margin: 1rem;
     padding: 0.5rem;
+    position: relative;
 }
 
 .kill-list-mob-image {
-  max-width: 300px;
+  max-width: 100%;
 }
 
 .kill-list-mob-flavor {
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-style: italic;
+  text-align: justify;
+}
+
+.kill-list-mob-kill-count {
+  font-size: 2rem;
+  position: absolute;
+  right: -0.5rem;
+  bottom: -1rem;
+  border: solid;
+  border-radius: 1rem;
+  background-color: darkgray;
 }
