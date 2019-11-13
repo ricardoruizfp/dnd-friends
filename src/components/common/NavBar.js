@@ -5,11 +5,12 @@ import { faBars } from '@fortawesome/free-solid-svg-icons'
 import './NavBar.css'
 
 function NavBar() {
+    const rootPage = '/dnd-friends';
     return (
         <div className='nav'>
             <ul className='nav-row'>
-                <Link to='/' >Home</Link>
-                <Link to='/Characters' >Characters</Link>
+                <Link to={`${rootPage}/`} >Home</Link>
+                <Link to={`${rootPage}/Characters`} >Characters</Link>
                 <Link to='#' >Current Affairs</Link>
                 <Link to='#' > Key NPCs</Link>
                 <Link to='#' >Loot Book</Link>

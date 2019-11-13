@@ -11,12 +11,14 @@ import './App.css';
 
 class App extends Component {
   render() {
+    const rootPage = '/dnd-friends';
     return (
       <Router>
         <NavBar />
         <Switch>
-          <Route path='/Characters' component={Characters} />
-          <Route path='/' component={Home} />
+          <Route path={`${rootPage}/Characters/`} component={Characters} />
+          <Route path={`${rootPage}/`} component={Home} />
+          <Route path={`/`} component={Home} />
         </Switch>
       </Router>
     )
