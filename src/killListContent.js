@@ -2,7 +2,8 @@ module.exports = {
   bullywugs: {
     displayName: 'Bullywugs',
     boss: true,
-    killCount: 69
+    killCount: 69,
+    imagePath: 'bullywugs.jpg',
   },
   cultists: {
 
@@ -218,17 +219,20 @@ module.exports = {
   rezmir: {
     displayName: 'Rezmir',
     boss: true,
-    killCount: 1
+    killCount: 1,
+    imagePath: 'rezmir.webp',
   },
   azbaraJos: {
     displayName: 'Azbara Jos',
     boss: true,
-    killCount: 1
+    killCount: 1,
+    imagePath: 'azbaraJos.webp',
   },
   captainOthelstan: {
     displayName: 'Captain Othelstan',
     boss: true,
-    killCount: 1
+    killCount: 1,
+    imagePath: 'captainOthelstan.webp',
   },
   mosaicChimera: {
     displayName: 'Mosaic Chimera',
