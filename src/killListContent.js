@@ -4,6 +4,7 @@ module.exports = {
     boss: true,
     killCount: 69,
     imagePath: 'bullywugs.jpg',
+    flavor: 'Bullywugs were amphibian humanoids with the head of frogs, about the size of humans, with leathery, green or gray-mottled skin, and webbed digits. Their tongues were so large they almost prevented them from being capable of speaking common.'
   },
   cultists: {
 
@@ -209,9 +210,9 @@ module.exports = {
   pharblexSpatergoo: {
 
   },
-  glazhaelTheSkychaser: {
-    displayName: 'Glazhael the Skychaser',
-    imagePath: 'glazhaelTheSkychaser.jpg',
+  glazhaelTheCloudchaser: {
+    displayName: 'Glazhael the Cloudchaser',
+    imagePath: 'glazhaelTheCloudchaser.jpg',
     boss: true,
     flavor: 'Glazhael the Cloudchaser was a white dragon allied with the reformed Cult of the Dragon of Severin. He remained in the Skyreach Castle to protect the hoard accumulated there.',
     killCount: 1
