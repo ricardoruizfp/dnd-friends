@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e2f0233e4c16cf361993a6967bcaf294",
+    "revision": "79bb0f6da3fd5bfd00f41018188b60fd",
     "url": "/dnd-friends/index.html"
   },
   {
-    "revision": "e8ad0f677f1c3f3569c3",
-    "url": "/dnd-friends/static/css/main.28c9419e.chunk.css"
+    "revision": "9eda2e6ce869e251cefa",
+    "url": "/dnd-friends/static/css/main.cf54e529.chunk.css"
   },
   {
     "revision": "fa3610547348ca71fc56",
     "url": "/dnd-friends/static/js/2.a721df62.chunk.js"
   },
   {
-    "revision": "e8ad0f677f1c3f3569c3",
-    "url": "/dnd-friends/static/js/main.bfa226bd.chunk.js"
+    "revision": "9eda2e6ce869e251cefa",
+    "url": "/dnd-friends/static/js/main.4ae531cd.chunk.js"
   },
   {
     "revision": "651125f9af3fee41447a",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dnd-friends/static/media/azbaraJos.c4a4079c.webp"
   },
   {
-    "revision": "4b11d3004790a544d1676de15267fd88",
-    "url": "/dnd-friends/static/media/bullywugs.4b11d300.jpg"
+    "revision": "3be0efd5ca314771b15dcdc3962d97b3",
+    "url": "/dnd-friends/static/media/bullywugs.3be0efd5.jpg"
   },
   {
     "revision": "7d582a215da97b5eea426283ec3afae1",
@@ -37,7 +37,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "dfabf3b95d6d5a2b0d4e0b20d35402a8",
-    "url": "/dnd-friends/static/media/glazhaelTheSkychaser.dfabf3b9.jpg"
+    "url": "/dnd-friends/static/media/glazhaelTheCloudchaser.dfabf3b9.jpg"
   },
   {
     "revision": "c2f99c30852074f21a73756f4fad8c9b",

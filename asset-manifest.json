@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/dnd-friends/static/css/main.28c9419e.chunk.css",
-    "main.js": "/dnd-friends/static/js/main.bfa226bd.chunk.js",
-    "main.js.map": "/dnd-friends/static/js/main.bfa226bd.chunk.js.map",
+    "main.css": "/dnd-friends/static/css/main.cf54e529.chunk.css",
+    "main.js": "/dnd-friends/static/js/main.4ae531cd.chunk.js",
+    "main.js.map": "/dnd-friends/static/js/main.4ae531cd.chunk.js.map",
     "runtime-main.js": "/dnd-friends/static/js/runtime-main.e8359318.js",
     "runtime-main.js.map": "/dnd-friends/static/js/runtime-main.e8359318.js.map",
     "static/js/2.a721df62.chunk.js": "/dnd-friends/static/js/2.a721df62.chunk.js",
     "static/js/2.a721df62.chunk.js.map": "/dnd-friends/static/js/2.a721df62.chunk.js.map",
     "index.html": "/dnd-friends/index.html",
-    "precache-manifest.6fb608bfb20a698bda06ffd02bf39bde.js": "/dnd-friends/precache-manifest.6fb608bfb20a698bda06ffd02bf39bde.js",
+    "precache-manifest.ceebe86d5cfe7fee895e01422f6660ce.js": "/dnd-friends/precache-manifest.ceebe86d5cfe7fee895e01422f6660ce.js",
     "service-worker.js": "/dnd-friends/service-worker.js",
-    "static/css/main.28c9419e.chunk.css.map": "/dnd-friends/static/css/main.28c9419e.chunk.css.map",
+    "static/css/main.cf54e529.chunk.css.map": "/dnd-friends/static/css/main.cf54e529.chunk.css.map",
     "static/media/App.css": "/dnd-friends/static/media/Beleren-Bold.3f6dcb6f.ttf",
     "static/media/azbaraJos.webp": "/dnd-friends/static/media/azbaraJos.c4a4079c.webp",
-    "static/media/bullywugs.jpg": "/dnd-friends/static/media/bullywugs.4b11d300.jpg",
+    "static/media/bullywugs.jpg": "/dnd-friends/static/media/bullywugs.3be0efd5.jpg",
     "static/media/captainOthelstan.webp": "/dnd-friends/static/media/captainOthelstan.7d582a21.webp",
-    "static/media/glazhaelTheSkychaser.jpg": "/dnd-friends/static/media/glazhaelTheSkychaser.dfabf3b9.jpg",
+    "static/media/glazhaelTheCloudchaser.jpg": "/dnd-friends/static/media/glazhaelTheCloudchaser.dfabf3b9.jpg",
     "static/media/mosaicChimera.jpg": "/dnd-friends/static/media/mosaicChimera.c2f99c30.jpg",
     "static/media/not-found.jpg": "/dnd-friends/static/media/not-found.6017e4da.jpg",
     "static/media/rezmir.webp": "/dnd-friends/static/media/rezmir.10e169d7.webp",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.e8359318.js",
     "static/js/2.a721df62.chunk.js",
-    "static/css/main.28c9419e.chunk.css",
-    "static/js/main.bfa226bd.chunk.js"
+    "static/css/main.cf54e529.chunk.css",
+    "static/js/main.4ae531cd.chunk.js"
   ]
 }
