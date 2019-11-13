@@ -14,7 +14,7 @@ function NavBar() {
                 <Link to='#' >Current Affairs</Link>
                 <Link to='#' > Key NPCs</Link>
                 <Link to='#' >Loot Book</Link>
-                <Link to='#' >Kill List</Link>
+                <Link to={`${rootPage}/KillList`} >Kill List</Link>
                 <Link to='#' >Crafting</Link>
                 <Link to='#' >Rules FAQ</Link>
                 <Link to='#' >Homebrew</Link>
@@ -22,12 +22,12 @@ function NavBar() {
             <div className='dropdown'>
                 <FontAwesomeIcon icon={faBars} />
                 <ul className='dropdown-content'>
-                    <Link to='/' >Home</Link>
-                    <Link to='/Characters' >Characters</Link>
+                    <Link to={`${rootPage}/`} >Home</Link>
+                    <Link to={`${rootPage}/Characters`} >Characters</Link>
                     <Link to='#' >Current Affairs</Link>
                     <Link to='#' > Key NPCs</Link>
                     <Link to='#' >Loot Book</Link>
-                    <Link to='#' >Kill List</Link>
+                    <Link to={`${rootPage}/KillList`} >Kill List</Link>
                     <Link to='#' >Crafting</Link>
                     <Link to='#' >Rules FAQ</Link>
                     <Link to='#' >Homebrew</Link>

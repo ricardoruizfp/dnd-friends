@@ -6,6 +6,7 @@ import {
 } from "react-router-dom";
 import NavBar from './components/common/NavBar'
 import Home from './pages/Home';
+import KillList from './pages/KillList';
 import Characters from './pages/Characters';
 import './App.css';
 
@@ -16,6 +17,7 @@ class App extends Component {
       <Router>
         <NavBar />
         <Switch>
+          <Route path={`${rootPage}/KillList/`} component={KillList} />
           <Route path={`${rootPage}/Characters/`} component={Characters} />
           <Route path={`${rootPage}/`} component={Home} />
           <Route path={`/`} component={Home} />

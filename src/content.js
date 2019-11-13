@@ -18,9 +18,6 @@ module.exports = Object.freeze({
     lootBook: {
         
     },
-    killList: {
-
-    },
     crafting: {
 
     },
