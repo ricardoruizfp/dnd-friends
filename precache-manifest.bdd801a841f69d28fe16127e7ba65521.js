@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "79bb0f6da3fd5bfd00f41018188b60fd",
+    "revision": "32824c231a38f48748aa13100411d88a",
     "url": "/dnd-friends/index.html"
   },
   {
-    "revision": "9eda2e6ce869e251cefa",
-    "url": "/dnd-friends/static/css/main.cf54e529.chunk.css"
+    "revision": "4613dcb6e4b89adea5cf",
+    "url": "/dnd-friends/static/css/main.c11f58bc.chunk.css"
   },
   {
     "revision": "fa3610547348ca71fc56",
     "url": "/dnd-friends/static/js/2.a721df62.chunk.js"
   },
   {
-    "revision": "9eda2e6ce869e251cefa",
+    "revision": "4613dcb6e4b89adea5cf",
     "url": "/dnd-friends/static/js/main.4ae531cd.chunk.js"
   },
   {
